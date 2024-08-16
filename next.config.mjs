@@ -3,7 +3,7 @@ const nextConfig = {
     async headers() {
       return [
         {
-          source: "/api/transfer-sol",
+          source: "/api/actions/transfer-sol",
           headers: [
             { key: "Access-Control-Allow-Credentials", value: "true" },
             { key: "Access-Control-Allow-Origin", value: "*" },
