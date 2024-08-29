@@ -36,7 +36,7 @@ import {
         links: {
           actions: [
             {
-              label: "Send 1 SOL",
+              label: "Send 1.1 SOL",
               href: `${baseHref}&amount=1`,
             },
             {
